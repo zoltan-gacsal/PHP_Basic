@@ -6,6 +6,5 @@
  /*
     több soros
     komment
- */
-
+ *
 ?>
